@@ -9,7 +9,7 @@ Here are some screenshots of vairous menus in the project
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/main-menu.PNG =500x500)
+![Main menu image](./images/main-menu.PNG | width=100)
 
 <------------------------------------------------------------------------>
 
