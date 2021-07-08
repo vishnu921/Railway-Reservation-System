@@ -9,43 +9,53 @@ Here are some screenshots of vairous menus in the project
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/main-menu.PNG)
+### Main Menu
+<img src="images/main-menu.PNG" width="600px" height="500px">
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/user-menu.PNG)
+### User Menu
+<img src="images/user-menu.PNG" width="600px" height="500px">
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/booking-menu.PNG)
+### Booking Menu
+<img src="images/booking-menu.PNG" width="600px" height="500px">
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/tc-enquiry-menu.PNG)
+### Ticket Enquiry Menu
+<img src="images/tc-enquiry-menu.PNG" width="600px" height="500px">
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/tc-cancel-menu.PNG)
+### Ticket Cancel Menu
+<img src="images/tc-cancel-menu.PNG" width="600px" height="500px">
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/admin-menu.PNG)
+### Admin Menu
+<img src="images/admin-menu.PNG" width="600px" height="500px">
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/add-train.PNG)
+### Add Train Menu
+<img src="images/add-train.PNG" width="600px" height="500px">
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/train-availabilty.PNG)
+### Train Availability Menu
+<img src="images/train-availabilty.PNG" width="600px" height="500px">
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/train-cancel.PNG)
+### Cancel train Menu
+<img src="images/train-cancel.PNG" width="600px" height="500px">
 
 <------------------------------------------------------------------------>
 
-![Main menu image](./images/exit-menu.PNG)
+### Exit Menu
+<img src="images/exit-menu.PNG" width="600px" height="500px">
 
 <------------------------------------------------------------------------>
 
